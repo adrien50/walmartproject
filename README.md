@@ -16,6 +16,10 @@ In this problem, we have been given the sales data of 45 stores based on store, 
 * Make model using machine learning techniques
 * Perform Hyper-parameter tuning to get the best parameters
 * Perform Model Comparison
+## Result
+Macro Economic Indicators did not help in prediction of weekly sales. The sales data is very similar over different years 
+and this consistency helped to predict the sales. 
+
 
 
 
