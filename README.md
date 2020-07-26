@@ -15,6 +15,7 @@ In this problem, we have been given the sales data of 45 stores based on store, 
 * Make prediction using statistical techniques
 * Make model using machine learning techniques
 * Perform Hyper-parameter tuning to get the best parameters
+* Perform Model Comparison
 
 
 
